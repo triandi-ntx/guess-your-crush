@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/guess-your-crush/static/css/main.afc2bc15.css",
-    "main.js": "/guess-your-crush/static/js/main.14394fbe.js",
+    "main.js": "/guess-your-crush/static/js/main.bd1f0183.js",
     "static/media/info.png": "/guess-your-crush/static/media/info.a077ac4bafdca93b4314.png",
     "static/media/gyc.gif": "/guess-your-crush/static/media/gyc.4a8f71c5532daf1da4ab.gif",
     "static/media/loading-bar.gif": "/guess-your-crush/static/media/loading-bar.d8f6405efc4b77b1e5b7.gif",
     "static/media/pattern.png": "/guess-your-crush/static/media/pattern.44b6f356719f7b353675.png",
     "index.html": "/guess-your-crush/index.html",
     "main.afc2bc15.css.map": "/guess-your-crush/static/css/main.afc2bc15.css.map",
-    "main.14394fbe.js.map": "/guess-your-crush/static/js/main.14394fbe.js.map"
+    "main.bd1f0183.js.map": "/guess-your-crush/static/js/main.bd1f0183.js.map"
   },
   "entrypoints": [
     "static/css/main.afc2bc15.css",
-    "static/js/main.14394fbe.js"
+    "static/js/main.bd1f0183.js"
   ]
 }
